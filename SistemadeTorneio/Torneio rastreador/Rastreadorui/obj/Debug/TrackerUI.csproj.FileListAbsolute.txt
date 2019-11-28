@@ -1,0 +1,4 @@
+C:\Users\Done\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csprojAssemblyReference.cache
+C:\Users\Done\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.VersusLabel.resources
+C:\Users\Done\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\Done\TournamentTracker\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
